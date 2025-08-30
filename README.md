@@ -1,14 +1,36 @@
-# School_Time_Table_Templete
-The HTML-only project that displays a school timetable for Class XII. The table includes days, time slots, and designated breaks/lunch periods, arranged in a clean and structured format.
+## School Timetable Showcase (HTML Project)
 
-[Live Demo : 🔗](https://madhumidha28.github.io/School_Time_Table_Templete/)
+  This project demonstrates multiple ways to represent a school timetable using only HTML & CSS.
 
-# About
-This is a simple **HTML-only** project that displays a timetable for Class XII using HTML `<table>` elements.  
-It demonstrates how to structure tabular data, merge cells using `rowspan` and `colspan`, and create a clean layout without CSS.
+[Live Demo : 🔗]()
 
-## Features
-- Uses only HTML (no CSS or JavaScript)
-- Merged cells (`rowspan` & `colspan`) for breaks and lunch
-- Proper headings for clarity
-- Simple, clean, and beginner-friendly code
+## Perspectives Covered
+  
+  **Horizontal Timetable** – Days in rows, periods in columns.
+  **Vertical Timetable** – Time slots in rows, days in columns.
+  **Comprehensive School Timetable** – A professional layout including Morning Assembly, Break, Lunch, and signature sections.
+
+## Comparison
+
+  **Horizontal Timetable**
+      ✅ Easy to compare all periods for a single day.
+      ❌ Can become too wide on smaller screens, requiring horizontal scrolling.
+  
+  **Vertical Timetable**
+      ✅ Easy to see what is scheduled at the same time across different days.
+      ❌ Longer vertical layout, leading to repeated headings and more scrolling.
+  
+  **Comprehensive Timetable**
+      ✅ Realistic school format, well-organized, with additional details for authenticity.
+      ❌ Requires more space; may need formatting adjustments for printing.
+
+## Learning Path
+
+  I began by creating the **Horizontal Timetable** to understand table structure, then built the **Vertical Timetable** to practice alternative layouts, and     
+  finally designed the **Comprehensive Timetable** to include realistic school details.
+
+  This project is continuously improving — the next planned update is to add **CSS styling** for:
+
+   **Color themes to make each timetable visually distinct**
+   **Controlled column widths for better readability**
+   **Responsive adjustments for different screen sizes**
