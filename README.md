@@ -2,13 +2,17 @@
 
   This project demonstrates multiple ways to represent a school timetable using only HTML & CSS.
 
-[Live Demo : 🔗]()
+[Live Demo : 🔗]
+  - [Horizontal Timetable]    : (https://madhumidha28.github.io/School_Time_Table_Templete/)
+  - [Vertical Timetable]      : (https://madhumidha28.github.io/School_Time_Table_Templete/vertical_timetable.html)
+  - [Comprehensive Timetable] : (https://madhumidha28.github.io/School_Time_Table_Templete/comprehensive_timetable.html)
 
 ## Perspectives Covered
   
   **Horizontal Timetable** – Days in rows, periods in columns.
   **Vertical Timetable** – Time slots in rows, days in columns.
   **Comprehensive School Timetable** – A professional layout including Morning Assembly, Break, Lunch, and signature sections.
+  ***For brevity, Monday is fully detailed in the comprehensive version; other days follow the same pattern.***
 
 ## Comparison
 
