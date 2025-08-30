@@ -9,24 +9,24 @@
 
 ## Perspectives Covered
   
-  1.**Horizontal Timetable** – Days in rows, periods in columns.
-  2.**Vertical Timetable** – Time slots in rows, days in columns.
-  3.**Comprehensive School Timetable** – A professional layout including Morning Assembly, Break, Lunch, and signature sections.
+  - **Horizontal Timetable** – Days in rows, periods in columns.
+  - **Vertical Timetable** – Time slots in rows, days in columns.
+  - **Comprehensive School Timetable** – A professional layout including Morning Assembly, Break, Lunch, and signature sections.
   ***For brevity, Monday is fully detailed in the comprehensive version; other days follow the same pattern.***
 
 ## Comparison
 
   1.**Horizontal Timetable**
-      ✅ Easy to compare all periods for a single day.
-      ❌ Can become too wide on smaller screens, requiring horizontal scrolling.
+      - ✅ Easy to compare all periods for a single day
+      - ❌ Can become too wide on smaller screens, requiring horizontal scrolling
   
   2.**Vertical Timetable**
-      ✅ Easy to see what is scheduled at the same time across different days.
-      ❌ Longer vertical layout, leading to repeated headings and more scrolling.
+      - ✅ Easy to see what is scheduled at the same time across different days
+      - ❌ Longer vertical layout, leading to repeated headings and more scrolling
   
   3.**Comprehensive Timetable**
-      ✅ Realistic school format, well-organized, with additional details for authenticity.
-      ❌ Requires more space; may need formatting adjustments for printing.
+      - ✅ Realistic school format, well-organized, with additional details for authenticity
+      - ❌ Requires more space; may need formatting adjustments for printing.
 
 ## Learning Path
 
