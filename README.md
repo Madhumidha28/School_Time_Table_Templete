@@ -3,8 +3,8 @@
   This project demonstrates multiple ways to represent a school timetable using only HTML & CSS.
 
 [Live Demo : 🔗]
-  - [Horizontal Timetable]    : (https://madhumidha28.github.io/School_Time_Table_Templete/)
-  - [Vertical Timetable]      : (https://madhumidha28.github.io/School_Time_Table_Templete/vertical_timetable.html)
+  - [Vertical Timetable]    : (https://madhumidha28.github.io/School_Time_Table_Templete/)
+  - [Horizontal Timetable]      : (https://madhumidha28.github.io/School_Time_Table_Templete/horizontal_timetable.html)
   - [Comprehensive Timetable] : (https://madhumidha28.github.io/School_Time_Table_Templete/comprehensive_timetable.html)
 
 ## Perspectives Covered
